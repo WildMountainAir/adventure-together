@@ -1,0 +1,19 @@
+{
+  "name": "adventure-together",
+  "version": "1.0.0",
+  "description": "Application to track dates and adventure memories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildMountainAir/adventure-together.git"
+  },
+  "author": "Alison Sipos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WildMountainAir/adventure-together/issues"
+  },
+  "homepage": "https://github.com/WildMountainAir/adventure-together#readme"
+}
